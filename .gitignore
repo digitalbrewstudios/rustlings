@@ -9,6 +9,7 @@ Cargo.lock
 # OS
 .DS_Store
 .direnv/
+.envrc
 
 # Editor
 *.swp
